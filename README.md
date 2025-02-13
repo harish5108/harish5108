@@ -23,7 +23,7 @@
 <p><h3>Projects:</h3>
   <div>
   <img align="center" alt="Coding" width="400" src="https://warrior-developer.netlify.app/assets/project-img-CXA-bCSF.png">
-  <h4>Tracking Students Locations using GPS & GSM</h4>
+  <h4>Tracking Students Locations using GPS & GSM</h4> <a href="https://github.com/harish5108/Tracking-Students-Locations-using-GPS-GSM"> Project view</a>
 
 <h5>— Built using HTML,CSS,JAVASCRIPT,PHP,SQL and C++.</h5>
 
