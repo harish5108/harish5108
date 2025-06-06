@@ -1,11 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGrifv3NH_CNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722580962615?e=1731542400&v=beta&t=Jo9BeszbJr3kpUY01P3iK2YTr_umlHbAUGZ4ILSGgc8)](https://warrior-developer.netlify.app/)
 <h1 align="center">Hi 👋, I'm Harish V</h1>
-<h3 align="center">A Motivated and detail-oriented Computer Science graduate with a strong foundation in web development technologies.</h3>
+<h3 align="center">A Motivated and detail-oriented Computer Science graduate with a strong foundation in Data scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish5108&label=Profile%20views&color=0e75b6&style=flat" alt="harish5108" /> </p>
 
-- 🌱 I’m currently learning **Front-end Frameworks like React**
+- 🌱 I’m currently learning **Data scientist like ML**
 
 - 👨‍💻 All of my projects are available at [https://warrior-developer.netlify.app/](https://warrior-developer.netlify.app/)
 
